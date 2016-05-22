@@ -1,0 +1,2 @@
+# recognition
+activity recognition   android
